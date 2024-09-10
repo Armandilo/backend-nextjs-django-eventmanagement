@@ -32,8 +32,7 @@ Before setting up the project, ensure you have the following installed on your m
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/backend-nextjs-django-eventmanagement.git
-cd backend-nextjs-django-eventmanagement
+git clone https://github.com/Armandilo/backend-nextjs-django-eventmanagement.git
 ```
 
 ### 2. Setup Python Virtual Environment
